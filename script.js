@@ -2,7 +2,7 @@ const fillers = {
     bestiaryintro: ["Excerpt from $funnylastname's $bestiarytitle:", "Section recovered from an ancient text entitled $bestiarytitle."],
     beasttitle: ["The $beastname", "$adjective-$bodyparted $beastname"],
     beastappearance: ["The $creature appears $adjective and has $adjective $bodypartplural.", "Researchers have noted the $creature's $adjective $bodypartsingle and $adjective $bodypartsingle.", "To identify the $creature, take note of its $adjective $bodypartsingle and $adjective $bodypartplural."],
-    beastbehavior: ["It is known to enjoy $verbingphrase.", "The $creature can be found in $habitat.", "It has been encountered $verbingphrase."],
+    beastbehavior: ["They are known to enjoy $verbingphrase.", "The $creature can be found in $habitat.", "It has been encountered $verbingphrase."],
     
     funnylastname: ["$funnylastnamepart1", "$funnylastnamepart1$funnylastnamepart", "$funnylastnamepart1$funnylastnamepart$funnylastnamepart"],
     funnylastnamepart1: ["Able", "Aster", "Bot", "Bisk", "Clue", "Chum", "Dust", "Dump", "Eber", "Erg", "Fart", "Fibble", "Gruff", "Grom", "Higgle", "Hard", "Ick", "Imp", "Juice", "Jump", "Kiff", "Kindly", "Lick", "Lump", "Man", "Mean", "Nice", "Nort", "Oogle", "Oops", "Pond", "Pum", "Quibble", "Quax", "Rum", "Riddle", "Seed", "Song", "Tub", "Trick", "Umber", "Ugg", "Vig", "Very", "Wax", "Wig", "Xylo", "X-", "Young", "Yellow", "Zoo", "Zit"],
