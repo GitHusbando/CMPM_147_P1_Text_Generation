@@ -12,7 +12,7 @@ const fillers = {
     Booktype: ["Tome", "List", "Bestiary", "Compendium", "Pamphlet", "Tablet", "Collection", "Book"],
     Adjective: ["Fantastic", "Wondrous", "Inspiring", "Barely-Imagined", "Fascinating", "Fantastic", "Exotic", "Unseen", "Everyday", "Common", "Uncommon", "Wild", "Domewstic", "Inhuman", "Funny", "Weird"],
 	
-    adjective: ["odd", "tall", "red", "orange", "yellow", "blue", "purlple", "brown", "black", "white", "skittish", "uncontrolled", "cold", "slow", "fast", "furry", "quilted", "tireless", "skinny", "rounded", "sharp", "rough", "smooth", "hard", "soft", "slimy", "oily", "dry", "salted", "long", "wide", "bubbly"],
+    adjective: ["odd", "tall", "red", "orange", "yellow", "blue", "purple", "brown", "black", "white", "skittish", "uncontrolled", "cold", "slow", "fast", "furry", "quilted", "tireless", "skinny", "rounded", "sharp", "rough", "smooth", "hard", "soft", "slimy", "oily", "dry", "salted", "long", "wide", "bubbly"],
     verbingphrase: ["$intransitiveverbing", "$transitiveverbing $pluralnoun"],
     intransitiveverbing: ["sleeping peacefully", "wrestling", "stampeding", "drinking", "partying", "crying", "whistling", "buffaloing", "panicking"],
     transitiveverbing: ["eating", "hiding from", "running from", "decorating", "wearing", "singing about", "climbing atop", "adorning themselves with", "talking about", "stomping on", "serenading", "peeing on"],
