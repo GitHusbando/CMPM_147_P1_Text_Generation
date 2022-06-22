@@ -35,10 +35,10 @@ const fillers = {
 	
 };
 
-   const template = '$bestiaryintro
+   const template = `$bestiaryintro
    $beasttitle
    $beastappearance
-   $beastbehavior'
+   $beastbehavior`
    ;
 
 // Original Content Below
