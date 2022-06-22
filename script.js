@@ -14,7 +14,7 @@ const fillers = {
 	
     adjective: ["odd", "tall", "red", "orange", "yellow", "blue", "purlple", "brown", "black", "white", "skittish", "uncontrolled", "cold", "slow", "fast", "furry", "quilted", "tireless", "skinny", "rounded", "sharp", "rough", "smooth", "hard", "soft", "slimy", "oily", "dry", "salted", "long", "wide", "bubbly"],
     verbingphrase: ["$intransitiveverbing", "$transitiveverbing $pluralnoun"],
-    intransitiveverbing: ["sleeping peacefully", "wrestling", "stampeding", "drinking", "partying", "crying" "whistling", "buffaloing", "panicking"],
+    intransitiveverbing: ["sleeping peacefully", "wrestling", "stampeding", "drinking", "partying", "crying", "whistling", "buffaloing", "panicking"],
     transitiveverbing: ["eating", "hiding from", "running from", "decorating", "wearing", "singing about", "climbing atop", "adorning themselves with", "talking about", "stomping on", "serenading", "peeing on"],
     pluralnoun: ["logs", "pumpkins", "researchers", "tiny huts", "bees", "nothing in particular", "cream puffs", "apples", "trees", "humans", "other members of the species", "rocks", "honey", "their greatest fears", "boy bands", "the concept of private ownership", "chihuahuas", "watermelons"],
     
