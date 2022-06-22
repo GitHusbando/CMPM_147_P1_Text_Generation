@@ -25,7 +25,7 @@ const fillers = {
     beastname: ["$beast1$beast2$beast3", "$beast1$beast3"],
     beast1: ["Ach", "Ansy", "Bark", "Bitter", "Cradle", "Cesio", "Dong", "Destro", "Egg", "End", "Fip", "Fyr", "Grob", "Ghast", "Higg", "Hydro", "Indle", "Ichthy", "Jam", "Jett", "Jump", "Juli", "Kwip", "Krackle", "Long", "Ledo", "Map", "Metro", "Noodle", "Nigh", "Odd", "Ortho", "Pom", "Ped", "Quib", "Quark", "Rack", "Retro", "Stoma", "Stratus", "Tach", "Tree", "Under", "Uvula", "Vasy", "Vesuvi", "Wan", "Wet", "Xeder", "Xanthy", "Yan", "Yatto", "Zombo", "Zeter"],
     beast2: ["astic", "astro", "bit", "beta", "ceda", "cicada", "drago", "data", "evero", "endo", "fangle", "fondle", "goro", "gender", "hadri", "happy", "inckle", "iddle", "jopolo", "just", "kandy", "kappa", "lapro", "little", "mando", "muddy", "nipper", "no", "oper", "o", "panda", "pity", "quizzle", "quack", "ready", "riddle", "sandy", "super", "tetra", "trig", "ugly", "uvula", "vitro", "vita", "wetter", "waisto", "xray", "-x-", "yatta", "yoda", "zeta", "zumps"],
-    beast3: ["osaur", "saurus", "us", "is", "diner", "dactyl", "ped", "pede", "raptor", "dong", "-doodle"]
+    beast3: ["osaur", "saurus", "us", "is", "diner", "dactyl", "ped", "pede", "raptor", "dong", "-doodle"],
     
     Creature: ["Creature", "Beast", "Being", "Existence", "Animal", "Bug", "Mammal", "Reptile", "Amphibian", "Dog", "Monster", "Abomination"],
     creature: ["creature", "beast", "being", "existence", "animal", "bug", "mammal", "reptile", "amphibian", "dog", "monster", "abomination"],
